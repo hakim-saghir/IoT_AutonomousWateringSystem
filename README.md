@@ -10,3 +10,6 @@ Les panneaux solaires alimentent une batterie intégrée, qui joue un rôle cent
 En plus du suivi solaire, le système intègre des capteurs d'humidité du sol et de température ambiante. Ces capteurs fournissent des informations en temps réel sur les conditions environnementales du jardin. En fonction de ces données, le système peut activer automatiquement une pompe à eau pour l'arrosage lorsque le niveau d'humidité du sol est bas ou lorsque la température ambiante atteint des valeurs préétablies.
 
 De plus, une option d'activation/désactivation manuelle est également prévue pour vous permettre de contrôler manuellement le fonctionnement de la pompe à eau via une interface conviviale.
+
+## Circuit
+![Rain and Shine circuit](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/9757da05-efb2-4fed-ade2-6a21e68b15be)
