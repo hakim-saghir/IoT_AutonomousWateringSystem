@@ -16,5 +16,6 @@ De plus, une option d'activation/désactivation manuelle est également prévue 
 
 ## Maqûete 3D
 En plus du circuit électronique complet, ce projet comprend également une représentation 3D d'une maison équipée de ce système de suivi solaire et d'arrosage automatique, offrant une visualisation réaliste de son intégration dans un environnement domestique
+
 ![Doc1_page-0001](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/5f6d2db7-7439-451b-9d2b-5f03e0a96dc5)
 
