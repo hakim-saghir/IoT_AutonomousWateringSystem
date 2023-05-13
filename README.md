@@ -14,18 +14,22 @@ De plus, une option d'activation/désactivation manuelle est également prévue 
 ## Maqûete 3D
 En plus du circuit électronique complet, ce projet comprend également une représentation 3D d'une maison équipée de ce système de suivi solaire et d'arrosage automatique, offrant une visualisation réaliste de son intégration dans un environnement domestique
 
-![Doc1_page-0001](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/5f6d2db7-7439-451b-9d2b-5f03e0a96dc5)
+![Doc1_page-0001](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/8f66e7b8-aaea-4a1b-ab72-f127422e8320)
+
 
 ## Circuit
 
-![Rain and Shine circuit](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/9757da05-efb2-4fed-ade2-6a21e68b15be)
+![Rain and Shine circuit](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/845d9a22-e7bc-4232-9109-3dd2582a14e9)
+
 
 ### Vue schématique du circuit
 
-![Rain and Shine circuit (1)_page-0001](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/23017f7b-b488-4fda-bd4e-714bf97c3c97)
-![Rain and Shine circuit (1)_page-0002](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/99ace662-942a-4a29-8e8e-524304530612)
+![Rain and Shine circuit (1)_page-0001](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/b593bf99-4d3e-4e3d-984e-4a1b915369e9)
+
+![Rain and Shine circuit (1)_page-0002](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/11e0a951-511e-47ed-822b-011939d0fd5e)
+
 
 ### Liste des composants du circuit
 
-![Liste des composants](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/e2ec237c-0d31-44db-b6d8-eaffbb8917a7)
+![Liste des composants](https://github.com/hakim-saghir/IoT_AutonomousWateringSystem/assets/73503150/c70eae16-9d3c-408f-a63a-0ccce03cd311)
 
